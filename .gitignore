@@ -1,0 +1,12 @@
+# Legacy files I'm using as examples to work from:
+Red.JSON-tmLanguage
+Red-REBOL.tmTheme
+
+# Sublime Project files
+Red.sublime-project
+*.sublime-workspace
+
+# Files I'm using for testing/comparison
+what
+test.c
+C.sublime-syntax
